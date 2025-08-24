@@ -6,3 +6,4 @@ when i working on dates such there is no Jan 1 2024  , I need to fill it up usin
 
  Note: This works for months other than January. For January, you need to handle year change separately.  for calculation  previous month vs current trend  month
  
+Made some visuals on Powerbi
