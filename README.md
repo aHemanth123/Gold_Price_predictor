@@ -1,5 +1,9 @@
 # Gold_Price_predictor
 
+### Dashboard PowerBI LINK : https://app.powerbi.com/groups/me/reports/b01557eb-f3cf-4ee7-b3bb-236f5df071fa/8c1fb1fecb00c8d29d2d?experience=power-bi
+```
+
+
 when i working on that the dates are missing so i filled up with before date
 
 when i working on dates such there is no Jan 1 2024  , I need to fill it up using december 31 jan 2023 which is in next table
