@@ -13,3 +13,4 @@ when i working on dates such there is no Jan 1 2024  , I need to fill it up usin
 ```
 
 Made some visuals on Powerbi
+[!img alt](https://github.com/aHemanth123/Gold_Price_predictor/blob/50fa3e411b25099a5b5ed71a42ec20e51a426802/Comparsion%20Page)
